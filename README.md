@@ -75,13 +75,3 @@ The repository includes PDFs and screenshots documenting the major stages of the
 
 - ArcGIS Pro
 - ArcGIS Online
-## Project Gallery
-
-### Final Building Design
-![Final Design](images/final-design.png)
-
-### Proposed Building
-![3D Building](images/3d-building.png)
-
-### Published Web Scene
-![Web Scene](images/web-scene.png)
